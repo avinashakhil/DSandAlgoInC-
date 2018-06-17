@@ -13,6 +13,6 @@ using namespace std;
 
 int main() {
 
-	cout << "Insertion sort";
+	cout << "Insertion sort in C++";
 	return 0;
 }
